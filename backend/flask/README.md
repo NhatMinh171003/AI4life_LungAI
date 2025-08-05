@@ -29,6 +29,9 @@ pip install -r requirements.txt
 
 3. Chạy ứng dụng
 ```bash
+cd backend/flask
+```
+```bash
 python run.py
 ```
 
