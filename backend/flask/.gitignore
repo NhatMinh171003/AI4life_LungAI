@@ -1,0 +1,11 @@
+# Ignore virtual envs
+venv/
+.env/
+
+# Ignore Python cache
+__pycache__/
+
+#ignore build
+build/
+dist/
+*.spec
