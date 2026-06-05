@@ -68,3 +68,14 @@ Git sẽ tải lại file `.h5` thật từ máy chủ Git LFS về.
 
 - **Không commit file `.h5` trực tiếp**, chỉ push sau khi Git LFS đã theo dõi.
 
+---
+
+## Business Analysis Documentation
+
+Dự án có bộ tài liệu BA trong thư mục [`docs/ba`](docs/ba):
+
+- SRS overview
+- Use case specification
+- User story và acceptance criteria
+- Data model và validation rules
+- Activity diagrams bằng file `.drawio`
